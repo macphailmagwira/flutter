@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116918646414",
+    "firebase_url": "https://sunbird-d2664.firebaseio.com",
+    "project_id": "sunbird-d2664",
+    "storage_bucket": "sunbird-d2664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116918646414:android:62477d36826a844d27fbdf",
+        "android_client_info": {
+          "package_name": "com.example.hotel_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116918646414-9iqh5br8d0uihbrdeh5pqb28kdptlib3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xeJQDc8KmpzEPBKHSAQHNGGou0Iv-Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116918646414-9iqh5br8d0uihbrdeh5pqb28kdptlib3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
